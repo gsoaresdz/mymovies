@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
@@ -7,21 +7,21 @@
   <title>Mymovies</title>
   <link rel="stylesheet" href="./style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <link rel="stylesheet" href="./modal.css">
+  <link rel="stylesheet" href="./modal.css" />
+  <link rel="stylesheet" href="./src/notie-master/dist/notie.min.css" />
 </head>
 
 <body>
   <header>
-    <h2><i class="bi bi-film"></i> MyMovies</h2>
-
+    <h2><i class="bi bi-film"></i>MyMovies</h2>
     <section id="search-container">
       <div class="input-wrapper movie-name-wrapper">
         <label for="movie-name">Nome:</label>
-        <input type="text" id="movie-name">
+        <input type="text" id="movie-name" />
       </div>
       <div class="input-wrapper movie-year-wrapper">
         <label for="movie-year">Ano:</label>
-        <input type="text" id="movie-year">
+        <input type="text" id="movie-year" />
       </div>
       <button id="search-button"><i class="bi bi-search"></i></button>
     </section>
@@ -32,31 +32,14 @@
     <article id="modal-overlay" class="overlay">
       <section id="modal-background"></section>
       <section id="modal-container">
-        <h2 id="movie-title">The Godfather - 1972</h2>
-        <section id="modal-body">
-          <img id="movie-poster" src="https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg" alt="Poster do Filme.">
-          <div id="movie-info">
-            <h3 id="movie-plot">
-              The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
-            </h3>
-            <div id="movie-cast">
-              <h4>Elenco</h4>
-              <h5>Marlon Brando, Al Pacino, James Caan</h5>
-            </div>
-            <div id="movie-genre">
-              <h4>Gênero</h4>
-              <h5>Crime, Drama</h5>
-            </div>
-          </div>
-        </section>
-        <section id="modal-footer">
-          <button id="add-to-list">Adicionar à Lista</button>
-        </section>
       </section>
     </article>
   </main>
-<script src="./script.js"></script>
+  <script src="./script.js"></script>
   <script src="./modal.js"></script>
+  <script src="./key.js"></script>
+  <script src="./src/notie-master/dist/notie.min.js"></script>
+  -->
 </body>
 
 </html>
