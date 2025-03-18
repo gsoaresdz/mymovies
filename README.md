@@ -5,55 +5,56 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/mymovies?color=56BEB8">
 </p>
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-características">Características</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-execution">Execution</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 <br>
 
-## **:dart: Sobre**
+## **:dart: About**
 
-Este projeto é uma aplicação web que permite aos usuários explorar informações sobre diversos filmes. Ideal para cinéfilos procurando detalhes e curiosidades sobre seus filmes favoritos.
+This project is a web application that allows users to explore information about various movies. Ideal for movie enthusiasts looking for details and trivia about their favorite films.
 
-## **:sparkles: Características**
+## **:sparkles: Features**
 
-- Visualização de informações detalhadas sobre filmes
-- Interface interativa com modais e transições suaves
-- Design responsivo que se adapta a diferentes tamanhos de tela
+- View detailed information about movies
+- Interactive interface with modals and smooth transitions
+- Responsive design that adapts to different screen sizes
 
-## **:rocket: Tecnologias**
+## **:rocket: Technologies**
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## **:white_check_mark: Requerimentos**
+## **:white_check_mark: Requirements**
 
-Para rodar este projeto, você só precisa de um navegador web atualizado.
+To run this project, you only need an updated web browser.
 
-## **:checkered_flag: Execução**
+## **:checkered_flag: Execution**
 
-Para executar o projeto localmente:
+To run the project locally:
 
-1. Clone o repositório:
+1. Clone the repository:
+   
 ```bash
 $ git clone https://github.com/gsoaresdz/mymovies.git
 ```
 
-Abra o arquivo index.html em seu navegador.
+2. Open the index.html file in your browser.
 
-## **:memo: Licença**
+## :memo: License
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+This project is licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.
 
-Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
 &#xa0;
 
-<a href="#top">De volta ao topo</a>
+<a href="#top">Back to top</a>
